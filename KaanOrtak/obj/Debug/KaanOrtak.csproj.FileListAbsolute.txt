@@ -1,0 +1,9 @@
+C:\Users\numank\Documents\Projeler\WindowsProjeler\Qa_Saha_Admin_Paneli\KaanOrtak\bin\Debug\KaanOrtak.dll
+C:\Users\numank\Documents\Projeler\WindowsProjeler\Qa_Saha_Admin_Paneli\KaanOrtak\bin\Debug\KaanOrtak.pdb
+C:\Users\numank\Documents\Projeler\WindowsProjeler\Qa_Saha_Admin_Paneli\KaanOrtak\obj\Debug\KaanOrtak.csproj.GenerateResource.cache
+C:\Users\numank\Documents\Projeler\WindowsProjeler\Qa_Saha_Admin_Paneli\KaanOrtak\obj\Debug\KaanOrtak.csproj.CoreCompileInputs.cache
+C:\Users\numank\Documents\Projeler\WindowsProjeler\Qa_Saha_Admin_Paneli\KaanOrtak\obj\Debug\KaanOrtak.dll
+C:\Users\numank\Documents\Projeler\WindowsProjeler\Qa_Saha_Admin_Paneli\KaanOrtak\obj\Debug\KaanOrtak.pdb
+C:\Users\numank\Documents\Projeler\WindowsProjeler\Qa_Saha_Admin_Paneli\KaanOrtak\obj\Debug\KaanOrtak.Arayuz_Tasarim_Form.resources
+C:\Users\numank\Documents\Projeler\WindowsProjeler\Qa_Saha_Admin_Paneli\KaanOrtak\obj\Debug\KaanOrtak.csprojAssemblyReference.cache
+C:\Users\numank\Documents\Projeler\WindowsProjeler\Qa_Saha_Admin_Paneli\KaanOrtak\bin\Debug\KaanOrtak.dll.config
